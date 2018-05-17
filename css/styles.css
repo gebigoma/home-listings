@@ -1,3 +1,12 @@
+input {
+    display: block;
+    padding: 10px 50px 10px 10px;
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+
+
+
 body {
     background-color: #eee;
 }
@@ -5,8 +14,8 @@ body {
 #submit {
     background: pink;
     color: white;
-}
-
-#address {
-    border: 2px solid black;
+    padding: 10px 95px 10px 95px;
+    font-size: 20px;
+    box-shadow: 2px 2px 8px rgba(111, 108, 108, 0.53);
+    text-shadow: 2px 2px 8px rgba(35, 35, 35, 0.38);
 }
